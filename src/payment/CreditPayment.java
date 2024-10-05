@@ -1,7 +1,6 @@
 package payment;
 
 import interfaces.Payment;
-import org.w3c.dom.ls.LSOutput;
 
 public class CreditPayment implements Payment {
 

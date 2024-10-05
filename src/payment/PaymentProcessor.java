@@ -1,3 +1,5 @@
+package payment;
+
 import interfaces.Payment;
 
 public class PaymentProcessor {
